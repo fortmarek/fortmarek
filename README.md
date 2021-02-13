@@ -5,7 +5,7 @@ At the moment, I am living in Prague, so if you ever happen to visit this beauti
 
 Otherwise, I am fairly active on [Twitter](https://twitter.com/marekfort) and of course you can reach me via [email](marekfort@me.com), too! I am more than happy to talk about anything, it does not have to be Swift or even development-related 🖤
 
-I try to work in the open as much as I can - you could checkout my [Github](https://github.com/fortmarek/) to see what I am working on.
+I try to work in the open as much as I can - you could checkout my repositories and latest activity to see what I am working on.
 The project I am most active in is [tuist](https://github.com/tuist/tuist) which is a great tool extracting away complexities of Xcode projects,
 letting you focus on actually building your apps.
 
