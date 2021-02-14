@@ -12,4 +12,4 @@ letting you focus on actually building your apps.
 This project has been a great source of inspiration for me, now I am a proud core maintainer of this repository that was founded by [Pedro](https://twitter.com/pedropbuendia/)
 who is a great person and I have learnt a lot from him.
 
-If you want to get to know more about me and read my blog posts, check out my **[personal website](https://marekfort.netlify.app/)**
+If you want to get to know more about me and read my blog posts, check out my **[personal website](https://marekfort.com/)**
