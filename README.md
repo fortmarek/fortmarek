@@ -1,6 +1,6 @@
 ### Hi! ✨
 
-My name is Marek Fořt and I am currently iOS developer at [Ackee](https://www.ackee.cz/en/). I have passion for open-source, Swift, building _stuff_ ✨ - but most importantly of all, helping and talking with people!
+My name is Marek Fořt and I am currently a production engineer at [Shopify](https://www.shopify.com/). I have passion for open-source, Swift, building _stuff_ ✨ - but most importantly of all, helping and talking with people!
 At the moment, I am living in Prague, so if you ever happen to visit this beautiful city, feel free to approach me and we can have a chat over coffee ☕️
 
 Otherwise, I am fairly active on [Twitter](https://twitter.com/marekfort) and of course you can reach me via [email](marekfort@me.com), too! I am more than happy to talk about anything, it does not have to be Swift or even development-related 🖤
